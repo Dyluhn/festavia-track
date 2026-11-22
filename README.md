@@ -1,5 +1,7 @@
 # Festavia Track
 
+**Festavia Track now lives in the [Festavia Studio & Track repository](https://github.com/Dyluhn/festavia-studio#festavia-track).** Get the [current source and guides](https://github.com/Dyluhn/festavia-studio/tree/main/track), [download the complete kit](https://raw.githubusercontent.com/Dyluhn/festavia-studio/track-downloads/v0.1.1/Festavia-MakerWorld.zip), or [report an issue](https://github.com/Dyluhn/festavia-studio/issues/new/choose) there. Earlier release links on this page still work.
+
 A customizable, modular soffit track for **Philips Hue Festavia permanent outdoor
 puck lights**. Plan a straight run, print numbered sections, lock the joints with
 replaceable splice bars and pins, then lift the run into sliding-lever brackets.
