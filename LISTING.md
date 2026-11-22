@@ -18,4 +18,4 @@ At 16 in (406.4 mm) puck spacing on a 256 mm square bed, a **10 ft run** produce
 
 Open **Festavia-Accessories** for the cable slack box and snap lid, the power-supply cradle and slide-on cover, siding shims, or flat-wire and round-cord clips. Pick only the parts your route needs. The cradle fits the 131 × 62 × 48 mm reference supply. Follow your supply’s mounting and airflow instructions.
 
-The complete download includes an offline workbench, a [configuration guide](docs/Festavia-Configuration-Guide.pdf) and an [illustrated assembly manual](docs/Festavia-Assembly-Manual.pdf). The holder fits the Festavia permanent outdoor puck with a roughly 35 mm body and 49 × 20 mm mounting tabs.
+The [complete download](https://github.com/Dyluhn/festavia-track/releases/latest/download/Festavia-MakerWorld.zip) includes an offline workbench, a [configuration guide](docs/Festavia-Configuration-Guide.pdf) and an [illustrated assembly manual](docs/Festavia-Assembly-Manual.pdf). The holder fits the Festavia permanent outdoor puck with a roughly 35 mm body and 49 × 20 mm mounting tabs.

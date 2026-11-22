@@ -1,4 +1,4 @@
-"""Package the MakerWorld download, its standalone workbench and the public manuals."""
+"""Build the complete community ZIP for the release link in the MakerWorld listing."""
 
 import argparse
 import hashlib
