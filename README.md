@@ -11,7 +11,7 @@ a Hue integration. Independent community design; not affiliated with Signify.
 
 ## Start here
 
-**[Download the complete track kit](https://github.com/Dyluhn/festavia-track/releases/latest/download/Festavia-MakerWorld.zip)**. Extract the ZIP and open `workbench/index.html` in your browser, or use the three SCAD files in MakerWorld.
+**[Customize on MakerWorld](https://makerworld.com/en/models/3665672-festavia-track-modular-soffit-mount-for-hue)** · **[Download the complete track kit](https://github.com/Dyluhn/festavia-track/releases/latest/download/Festavia-MakerWorld.zip)**. Extract the ZIP and open `workbench/index.html` in your browser, or use the three SCAD files in MakerWorld.
 
 1. [Configure your track (PDF)](docs/Festavia-Configuration-Guide.pdf) · [Phone/browser edition](docs/Festavia-Configuration-Guide.html). Measure your run, set puck spacing and bracket positions, then check and export the plates in MakerWorld.
 2. [Assemble your track (PDF)](docs/Festavia-Assembly-Manual.pdf) · [Phone/browser edition](docs/Festavia-Assembly-Manual.html). Follow the illustrated puck, joint, bracket and cable-routing sequence for your own layout.

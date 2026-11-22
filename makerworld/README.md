@@ -12,6 +12,8 @@ For Philips Hue Festavia permanent outdoor puck lights. Start with the **section
 
 ## Try it online
 
+Open [Festavia Track on MakerWorld](https://makerworld.com/en/models/3665672-festavia-track-modular-soffit-mount-for-hue) and select **Customize**. To load a downloaded SCAD file with your own settings, use the Creator Portal steps below.
+
 1. Sign in to [MakerWorld Parametric Model Maker](https://makerworld.com/en/makerlab/parametricModelMaker). Choose **Creator Portal → Open SCAD File** and select one of the files above. Close the **Code** drawer with its × to see the model and controls together.
 2. Edit a measurement and select **Generate**. To try a section, change **piece length** from 180 to 207.5 mm. Both use the same puck opening and joint. The printed overall length includes the projecting tongue.
 3. For a run, **Assemble View** shows a diagram and the number of batches. **Plates** opens the printable layouts. The orange dots are pucks and the lower teal marks are brackets. The vertical lines are track joints.
